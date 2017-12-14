@@ -12,6 +12,7 @@
 		9018943C1FE1E50D00251112 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9018943A1FE1E50D00251112 /* Main.storyboard */; };
 		9018943E1FE1E50D00251112 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9018943D1FE1E50D00251112 /* Assets.xcassets */; };
 		901894411FE1E50D00251112 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9018943F1FE1E50D00251112 /* LaunchScreen.storyboard */; };
+		901894491FE1EF3600251112 /* CelestialBeing.json in Resources */ = {isa = PBXBuildFile; fileRef = 901894481FE1EEDA00251112 /* CelestialBeing.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9018943D1FE1E50D00251112 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		901894401FE1E50D00251112 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		901894421FE1E50D00251112 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		901894481FE1EEDA00251112 /* CelestialBeing.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = CelestialBeing.json; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				901894381FE1E50D00251112 /* ViewController.swift */,
 				9018943A1FE1E50D00251112 /* Main.storyboard */,
 				9018943D1FE1E50D00251112 /* Assets.xcassets */,
+				901894481FE1EEDA00251112 /* CelestialBeing.json */,
 				9018943F1FE1E50D00251112 /* LaunchScreen.storyboard */,
 				901894421FE1E50D00251112 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				901894411FE1E50D00251112 /* LaunchScreen.storyboard in Resources */,
 				9018943E1FE1E50D00251112 /* Assets.xcassets in Resources */,
+				901894491FE1EF3600251112 /* CelestialBeing.json in Resources */,
 				9018943C1FE1E50D00251112 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
